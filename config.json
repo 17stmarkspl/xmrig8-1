@@ -97,7 +97,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "gulf.moneroocean.stream",
+            "url": "gulf.moneroocean.stream:10032",
             "user": "43GJKZ8trArfNFU6UNtYhudn8xXLzNkoRJJrYKsfm74bRJyfmHv7tEy28zZNL7JMoA1KSNBAFPyWhcbXwGg63bs7Qer9Dww",
             "pass": null,
             "rig-id": "mr676320",
